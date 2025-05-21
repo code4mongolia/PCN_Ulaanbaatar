@@ -6,6 +6,7 @@
 
 - [IchigoJam](https://ichigojam.net/) / [IchigoJam web](https://ichigojam.github.io/web/)
 - [first step & mini games (in Japanese)](https://ichigojam.net/data/IchigoJam-kidshack.pdf)
+- [first step & mini games (in English)](https://ichigojam.net/data/IchigoJam-firstgame-en.pdf)
 - [IchigoJam print (in Japanese)](https://ichigojam.github.io/print/ja/)
 - [IchigoJam print (in English)](https://ichigojam.github.io/print/en/)
 
