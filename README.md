@@ -10,3 +10,7 @@
 ## Event
 
 - comming soon!
+
+## Join us!
+
+- [contact with GitHub account](https://github.com/code4mongolia/PCN_Ulaanbaatar/issues/1)
